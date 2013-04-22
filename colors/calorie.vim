@@ -23,8 +23,8 @@ endif
 
 " General colors
 hi Cursor       guifg=NONE    guibg=#656565 gui=none
-hi CursorLine   guibg=#333435 ctermbg=236 cterm=NONE
-hi Normal       guifg=#f6f3e8 guibg=#242424 gui=none ctermfg=white ctermbg=234
+hi CursorLine   guibg=#333435 ctermbg=237 cterm=NONE
+hi Normal       guifg=#f6f3e8 guibg=#242424 gui=none ctermfg=white
 hi NonText      guifg=#808080 guibg=#303030 gui=none
 hi LineNr       guifg=#857b6f guibg=#000000 gui=none ctermfg=242
 hi StatusLine   guifg=#f6f3e8 guibg=#444444 gui=italic
